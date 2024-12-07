@@ -1,0 +1,37 @@
+nav{
+    display: inline-block;
+    /* padding-right: 300px; */
+    /* margin-left: 20px; */
+    /* border: solid black 2px; */
+    margin: 150px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+   
+ 
+    
+}
+
+header{
+    background-color: yellowgreen;
+    font-size: large;
+    position: sticky;
+    top: 0px;
+    margin: 10px;
+}
+#item1,#item2,#item3{
+    /* margin-top: px; */
+    font-size: x-large;
+    text-align: center;
+    background-color: bisque;
+    position: sticky;
+    top: 0px;
+
+}
+.icons{
+    position: fixed;
+    bottom: 100px;
+    right: 100px;
+    font-size: xx-large;
+    display: block;
+}
+
